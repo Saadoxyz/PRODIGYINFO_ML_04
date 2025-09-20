@@ -112,7 +112,7 @@ The model is trained on the **LeapGestRecog dataset** (Kaggle) and demonstrates 
    ```bash
    git clone https://github.com/your-username/hand-gesture-recognition.git
    cd hand-gesture-recognition
-````
+
 
 2. Install dependencies:
 
